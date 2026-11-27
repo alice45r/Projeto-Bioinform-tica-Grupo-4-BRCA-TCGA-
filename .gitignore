@@ -1,5 +1,11 @@
-data_mutations.txt
-data_clinical_patient.txt
-WS.exoma_Rdata
-*.tar.gz
-*.fastq.gz
+*.bam
+*.bai
+*.fastq*
+*.fq*
+*.vcf*
+*.maf
+*.fa
+*.fai
+*.dict
+*.log
+*.pdf
