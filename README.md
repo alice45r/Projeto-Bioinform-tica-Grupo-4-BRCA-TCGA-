@@ -74,3 +74,13 @@ Caracterizar o perfil mutacional de quatro linhagens celulares humanas de carcin
 * **Estratificação por Instabilidade Genómica e Relação com o TCGA-BRCA:**
   * **Grupo de Alta Carga Mutacional (`SRR8619113`, `SRR8619154` e `SRR8619186`):** Apresentam carga elevada e homogénea (~195k–200k variantes), padrão concordante com subtipos de carcinoma mamário de maior instabilidade genómica na coorte TCGA-BRCA, como **Basal-like (Triplo-Negativo)** e **HER2-enriquecido** (frequentemente associados a mutações em *TP53* e deficiência em vias de reparo de DNA).
   * **Linhagem de Menor Carga Relativa (`SRR8619133`):** Apresenta cerca de 35 mil variantes a menos que as restantes (164.643 variantes), perfil mais próximo aos tumores luminais (**Luminal A / Luminal B**), que exibem menor carga mutacional global no TCGA.
+
+## 📚 Referências Bibliográficas e Documentação
+
+* **Artigos de Referência (Linhagens Celulares de Carcinoma Mamário):**
+  * [Nature — Genomic landscape of breast cancer cell lines](https://www.nature.com/articles/35021093)
+  * [Cell Genomics — Molecular characterization of breast cancer models](https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00083-5)
+* **Documentação das Ferramentas:**
+  * [FastQC — Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+  * [GATK Best Practices Workflows — Broad Institute](https://gatk.broadinstitute.org/hc/en-us/sections/360007226651-Best-Practices-Workflows)
+  * [Formato MAF / vcf2maf — MSKCC](https://github.com/mskcc/vcf2maf)
