@@ -1,0 +1,2 @@
+Tumor_Sample_Barcode	Frame_Shift_Del	Frame_Shift_Ins	Missense_Mutation	total
+SRR8619133	4633	3142	156868	164643
